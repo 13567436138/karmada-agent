@@ -1,1 +1,1 @@
-FROM docker.io/karmada/karmada-agent:v1.8.0
+FROM docker.io/karmada/karmada-agent:v1.9.0
